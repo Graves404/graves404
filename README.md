@@ -6,7 +6,7 @@
         proficiency in Python, Go, SQL, TypeScript, and system design. I love
         exploring new technologies and experimenting with other technologies. I
         live for work. For me, in the first place, it's the progression of my
-        skills. I like it when a task looks like a small quest in an MMO RPG.
+        skills. I like it when a task looks like a quest in an MMO RPG.
         I'm not a typical Senior Engineer, my focus is on the team, interesting
         tasks, and progress.
     </p>
