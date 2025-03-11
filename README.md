@@ -74,8 +74,8 @@
             alt="Redis Badge"
         />
         <img
-            src="https://img.shields.io/badge/redis-%23DD0031?style=for-the-badge&logo=redis&logoColor=white"
-            alt="Redis Badge"
+            src="https://img.shields.io/badge/kibana-007ACC?style=for-the-badge&logo=kibana&logoColor=white"
+            alt="kibana Badge"
         />
         <img
             src="https://img.shields.io/badge/elasticseatch-007ACC?style=for-the-badge&logo=elastic&logoColor=white"
