@@ -10,7 +10,6 @@
         I'm not a typical Senior Engineer, my focus is on the team, interesting
         tasks, and progress.
     </p>
-
     <h2>✍️ Connect with Me</h2>
     <div id="badges">
         <a href="https://t.me/Mfiliber" style="text-decoration: none;">
@@ -32,7 +31,6 @@
             />
         </a>
     </div>
-
     <h2>💻 My Tech Stack</h2>
     <p>
         <img
@@ -55,61 +53,47 @@
             src="https://img.shields.io/badge/RabbitMQ-%D14836.svg?style=for-the-badge&logo=rabbitmq&logoColor=white"
             alt="RabbitMQ Badge"
         />
-
         <img
             src="https://img.shields.io/badge/DOCKER-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
             alt="Docker Badge"
         />
-
         <img
             src="https://img.shields.io/badge/Stripe-5851DD.svg?style=for-the-badge&logo=Stripe&logoColor=white"
             alt="Stripe Badge"
         />
-
         <img
             src="https://img.shields.io/badge/Firebase-039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white"
             alt="Firebase Badge"
         />
-
         <img
             src="https://img.shields.io/badge/Temporal-000000.svg?style=for-the-badge&logo=temporal&logoColor=white"
             alt="Temporal Badge"
         />
-
         <img
             src="https://img.shields.io/badge/redis-%23DD0031?style=for-the-badge&logo=redis&logoColor=white"
             alt="Redis Badge"
         />
-
         <img
             src="https://img.shields.io/badge/redis-%23DD0031?style=for-the-badge&logo=redis&logoColor=white"
             alt="Redis Badge"
         />
-
         <img
             src="https://img.shields.io/badge/elasticseatch-007ACC?style=for-the-badge&logo=elastic&logoColor=white"
             alt="Elasticseatch Badge"
         />
-
         <img
             src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"
             alt="TypeScirpt Badge"
         />
-
         <img
             src="https://img.shields.io/badge/React-673AB8?style=for-the-badge&logo=React&logoColor=white"
             alt="TypeScirpt Badge"
         />
-
         <img
             src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
             alt="Tailwind Badge"
         />
-
-
-
     </p>
-
     <h2>📈 GitHub Stats</h2>
     <p>
         <p>🚀There's always something to look forward to🚀</p>
@@ -120,7 +104,6 @@
             height="180"
         />
     </p>
-
     <h2>📂 Features</h2>
     <p>
         I am currently developing the marketplace.
